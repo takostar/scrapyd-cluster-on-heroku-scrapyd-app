@@ -7,7 +7,7 @@ logparser>=0.8.2
 scrapy
 requests
 requests_async
-pprint
+pprint>=0.1
 lxml
 asyncio
 base64
