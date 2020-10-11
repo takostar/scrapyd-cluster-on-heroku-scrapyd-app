@@ -9,4 +9,3 @@ requests
 requests_async
 lxml
 asyncio
-base64
