@@ -4,7 +4,6 @@ Scrapy==2.3.0
 scrapyd>=1.2.1
 scrapy-redis
 logparser>=0.8.2
-scrapy
 requests
 requests-async==0.6.2
 lxml==4.5.2
