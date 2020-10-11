@@ -9,3 +9,4 @@ requests
 requests_async
 lxml
 asyncio
+async_retrying
