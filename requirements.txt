@@ -1,6 +1,6 @@
 pip>=19.1.1
 Twisted==20.3.0
-Scrapy==2.3.0
+Scrapy==2.4.0
 scrapyd>=1.2.1
 scrapy-redis
 logparser>=0.8.2
