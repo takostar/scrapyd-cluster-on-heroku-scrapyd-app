@@ -1,12 +1,12 @@
 pip>=19.1.1
-#Twisted>=18.9.0
+Twisted==20.3.0
 Scrapy==2.3.0
 scrapyd>=1.2.1
 scrapy-redis
 logparser>=0.8.2
-requests
+requests==2.24.0
 requests-async==0.6.2
 lxml==4.5.2
-asyncio
+asyncio==3.4.3
 async-retrying==0.2.2
 mysqlclient==2.0.1
